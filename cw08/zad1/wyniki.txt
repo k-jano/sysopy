@@ -1,0 +1,27 @@
+1) Baboon.ascii.pgm   Width: 512    Heigth: 512    filter: blur.txt (3x3)
+	a)liczba wątków 1: real: 0.11s
+	b)liczba wątków 2: real: 0.06s
+	c)liczba wątków 4: real: 0.04s
+	d)liczba wątków 8: real: 0.03s
+	e)liczba wątków 30: real: 0.03s
+
+2) Baboon.ascii.pgm   Width: 512   Heigth: 512 filter: id.txt(11x11) 
+	a)liczba wątków 1: real: 1.33s
+	b)liczba wątków 2: real: 0.72s
+	c)liczba wątków 4: real: 0.38s
+	d)liczba wątków 8: real: 0.39s
+	e)liczba wątków 30: real: 0.37s
+
+3) Balloons.ascii.pgm   Width: 640   Heigth: 480   filter: blur.txt (3x3)
+	a)liczba wątków 1: real: 0.12s
+	b)liczba wątków 2: real: 0.06s
+	c)liczba wątków 4: real: 0.03s
+	d)liczba wątków 8: real: 0.04s
+	e)liczba wątków 30: real: 0.03s
+
+4) Balloons.ascii.pgm   Width: 640   Heigth: 480   filter: id.txt (11x11)
+	a)liczba wątków 1: real: 1.57s
+	b)liczba wątków 2: real: 0.84s
+	c)liczba wątków 4: real: 0.44s
+	d)liczba wątków 8: real: 0.44s
+	e)liczba wątków 30: real: 0.44s
