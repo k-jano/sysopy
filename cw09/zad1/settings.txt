@@ -1,0 +1,10 @@
+12
+4
+5
+wiersze.txt
+12
+>
+extended
+2
+
+

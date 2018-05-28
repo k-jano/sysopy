@@ -1,0 +1,10 @@
+12
+4
+5
+panTadeusz.txt
+12
+>
+extended
+1
+
+
